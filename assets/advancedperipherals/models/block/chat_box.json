@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "advancedperipherals:block/chat_box_side",
+    "south": "advancedperipherals:block/chat_box_side",
+    "west": "advancedperipherals:block/chat_box_side",
+    "east": "advancedperipherals:block/chat_box_side",
+    "up": "advancedperipherals:block/chat_box",
+    "down": "advancedperipherals:block/chat_box",
+    "particle": "advancedperipherals:block/chat_box_side"
+  }
+}

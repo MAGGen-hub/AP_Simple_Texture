@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "advancedperipherals:block/ar_side",
+    "south": "advancedperipherals:block/ar_side",
+    "west": "advancedperipherals:block/ar_side",
+    "east": "advancedperipherals:block/ar_side",
+    "up": "advancedperipherals:block/ar_up",
+    "down": "advancedperipherals:block/machine_bottom",
+    "particle": "advancedperipherals:block/ar_up"
+  }
+}

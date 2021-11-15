@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "advancedperipherals:block/environment_detector",
+    "south": "advancedperipherals:block/environment_detector",
+    "west": "advancedperipherals:block/environment_detector",
+    "east": "advancedperipherals:block/environment_detector",
+    "up": "advancedperipherals:block/environment_detector_up",
+    "down": "advancedperipherals:block/environment_detector_bottom",
+    "particle": "advancedperipherals:block/environment_detector"
+  }
+}

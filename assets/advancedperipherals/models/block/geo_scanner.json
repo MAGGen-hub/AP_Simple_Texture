@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "advancedperipherals:block/geo_scanner",
+    "south": "advancedperipherals:block/geo_scanner",
+    "west": "advancedperipherals:block/geo_scanner",
+    "east": "advancedperipherals:block/geo_scanner",
+    "up": "advancedperipherals:block/geo_scanner_up",
+    "down": "advancedperipherals:block/geo_scanner_bottom",
+    "particle": "advancedperipherals:block/geo_scanner"
+  }
+}
