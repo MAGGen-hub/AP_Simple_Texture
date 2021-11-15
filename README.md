@@ -22,3 +22,5 @@ Animated blocks
 
 Logo
 ![Pack Logo](pack.png)
+
+Author: M.A.G.Gen.
